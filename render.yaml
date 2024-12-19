@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: movie-app
+    env: static
+    staticPublishPath: dist
